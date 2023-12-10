@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saudagarm
-- 👀 I’m interested in learning AI and machine learning using python
-- 🌱 I’m currently working as a java developer and many related frameworks
+- 👀 I’m interested in exploring best practices about enterprise architect 
+- 🌱 I’m currently working as an Architect and working on many related frameworks
 - 💞️ I’m looking to collaborate on (not sure) anything interesting
 - 📫 How to reach me muliksaudagar@gmail.com
 
